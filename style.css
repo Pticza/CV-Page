@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(255, 255, 241);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header {
+    text-align: center;
+}
+.header_title {
+    font-size: 28px;
+}
+.header_subtitle {
+color: brown;
+}
+main {
+    border: 1px solid pink;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+.separator {
+    width: 50%;
+    height: 2px;
+    background-color: brown;
+}
+.video {
+    width: 600px;
+    height: 320px;
+    border: none;
+}
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.ed_table th, .ed_table tr {
+border: 1px solid black;
+padding: 10px;
+}
+.quote {
+    font-size: 32px;
+}
+legend {
+    text-align: center;
+}
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
